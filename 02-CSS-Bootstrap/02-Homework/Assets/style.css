@@ -1,0 +1,31 @@
+
+body {
+    background-color: #cc00cc;
+    color: black;
+}
+
+.site{
+    max-width: 1000px;
+    float: none;
+    margin:auto;
+    background-color:purple;
+    padding: 10px;
+
+}
+
+header{
+width: 100px;
+display: block;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
+
+
