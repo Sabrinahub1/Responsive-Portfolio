@@ -1,7 +1,13 @@
 
 body {
     background-color: #cc00cc;
-    color: black;
+
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+    font-weight: 900;
+
+
 }
 
 .site{
@@ -10,22 +16,31 @@ body {
     margin:auto;
     background-color:purple;
     padding: 10px;
+    text-align: center;
+
+
 
 }
-
 header{
 width: 100px;
 display: block;
+
+
+
 }
 p{
+    text-align: center;
+    color: rgb(8, 10, 10);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.nav-item:hover{
+    background-color: rgb(0, 255, 242);
+}
+.display-1{
+    color: ghostwhite;
+}
 
-
-
-
-
-
-
-
-
+.imgfluid{
+    ;
+    
+}
