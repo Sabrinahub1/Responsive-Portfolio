@@ -1,1 +1,3 @@
-# WK2hw This assignement displays information about myself, my hobbies, my family and some of my acheivements. 
+# Week two of The Tech Bridge Technology Cohort 
+# We were responsible for creating our first Resposive Portfolio utilizing front end languages
+#
